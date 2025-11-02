@@ -1,0 +1,5 @@
+{
+  "name": "PixPress - Client-Side Image Compressor",
+  "description": "A modern, glassmorphic image compressor that works entirely in your browser. Upload, compress, and download images with full privacy, as no data ever leaves your device.",
+  "requestFramePermissions": []
+}
